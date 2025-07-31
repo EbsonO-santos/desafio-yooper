@@ -19,14 +19,6 @@ Aplicação React que consome a API da Marvel para listar e detalhar personagens
 - LocalStorage para persistência de favoritos
 - CSS
 
-## 🛠️ Instalação
-
-```bash
-git clone https://github.com/seu-usuario/yooper-marvel.git
-cd yooper-marvel
-npm install
-npm run dev
-```
 
 Crie um arquivo `.env` na raiz com as suas chaves da API Marvel:
 
